@@ -6,7 +6,7 @@ module.exports = {
   siteUrl: `https://cookieblog.vercel.app`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
-    github: `https://github.com/korECM`, // Your GitHub account
+    github: `korECM`, // Your GitHub account
     medium: ``, // Your Medium account
     facebook: ``, // Your Facebook account
     linkedin: ``, // Your LinkedIn account
