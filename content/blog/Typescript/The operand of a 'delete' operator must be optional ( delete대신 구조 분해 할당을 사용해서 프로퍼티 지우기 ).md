@@ -1,5 +1,5 @@
 ---
-title: delete대신 구조 분해 할당을 사용해서 프로퍼티 지우기
+title: The operand of a 'delete' operator must be optional ( delete대신 구조 분해 할당을 사용해서 프로퍼티 지우기 )
 date: 2021-04-21 00:04:72
 category: Typescript
 thumbnail: { thumbnailSrc }
