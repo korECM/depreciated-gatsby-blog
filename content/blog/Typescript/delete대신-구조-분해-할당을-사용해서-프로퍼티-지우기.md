@@ -132,8 +132,6 @@ Found 1 error.
 
 실제로 Typescript 4.0 버전 이상부터는 `delete` 연산자를 사용하면 경고를 내보낸다. [4.0 공식 문서](https://devblogs.microsoft.com/typescript/announcing-typescript-4-0-beta/#breaking-changes)
 
-![assets/images/Post/deleteOp.png](assets/images/Post/deleteOp.png)
-
 따라서 `delete` 대신 타입적으로 안정된 구조 분해 할당을 사용해서 프로퍼티를 제외하는 것이 좋을 것 같다.
 
 ![deleteOp.png](images/delete%E1%84%83%E1%85%A2%E1%84%89%E1%85%B5%E1%86%AB-%E1%84%80%E1%85%AE%E1%84%8C%E1%85%A9-%E1%84%87%E1%85%AE%E1%86%AB%E1%84%92%E1%85%A2-%E1%84%92%E1%85%A1%E1%86%AF%E1%84%83%E1%85%A1%E1%86%BC%E1%84%8B%E1%85%B3%E1%86%AF-%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A2%E1%84%89%E1%85%A5-%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%91%E1%85%A5%E1%84%90%E1%85%B5-%E1%84%8C%E1%85%B5%E1%84%8B%E1%85%AE%E1%84%80%E1%85%B5/deleteOp-20210421001604512.png)
