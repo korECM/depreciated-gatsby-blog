@@ -1,5 +1,5 @@
 ---
-title: JVM : 스택 기반 VM과 레지스터 기반 VM
+title: 스택 기반 VM과 레지스터 기반 VM
 date: 2021-04-24 15:04:33
 category: Java
 thumbnail: { thumbnailSrc }
